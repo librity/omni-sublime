@@ -9,7 +9,7 @@
 1. Clone the repo locally as `Omni Color Scheme`:
 
 ```bash
-$ git clone https://github.com/dracula/sublime.git "Omni Color Scheme"
+$ git clone https://github.com/librity/omni-sublime "Omni Color Scheme"
 ```
 
 2. Open Sublime and navigate to `Sublime -> Preferences -> Browse Packages...`
